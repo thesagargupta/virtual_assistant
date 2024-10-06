@@ -9,7 +9,7 @@
 <h2>Run the program and activate the assistant just by saying</h2><h1>"hello Annu"</h1>
 
 <ul>
-  To play Song on spotify: say"play song{song_name}"
+  <li>To play Song on spotify: say"play song{song_name}"
 </ul>
   
 </pre>
