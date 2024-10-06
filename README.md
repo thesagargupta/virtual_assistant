@@ -15,7 +15,20 @@
   <li><h2>To open Youtube, Instagram: say"open {site name}"</h2></li>
   
 </ul>
+</pre>
+
+<h1>!!!!!! Requirement to run this program!!!!!</h1>
+<h3>you must need to install python and these library in your system</h3>
+<pre>
+1) pip install PyAudio
+2) pip install Pyttsx3
+3) pip install requests
+4) pip install spotipy
+5) pip install speechrecognition
+
+</pre>
+  
     
   <h1>here a fun fact:</h1>
    <h3> <p>you can ask her about me 😅😅: just by saying</h3><h1> "who is sagar gupta"</h1></p>
-</pre>
+
