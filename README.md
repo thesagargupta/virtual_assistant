@@ -9,10 +9,10 @@
 <h2>Run the program and activate the assistant just by saying</h2><h1>"hello Annu"</h1>
 
 <ul>
-  <li><h3>To play Song on spotify: say"play song{song_name}"</h3></li>
-  <li><h3>To listen News: say "what is the headlines today"</h3></li>
-  <li><h3>To Now Weather forcast: say "what is the weather {your_city_name}"</h3></li>
-  <li><h3>To open Youtube, Instagram: say"open {site name}"</h3>h3></li>
+  <li><h2>To play Song on spotify: say"play song{song_name}"</h2></li>
+  <li><h2>To listen News: say "what is the headlines today"</h2></li>
+  <li><h2>To Now Weather forcast: say "what is the weather {your_city_name}"</h2></li>
+  <li><h2>To open Youtube, Instagram: say"open {site name}"</h2></li>
   
 </ul>
     
