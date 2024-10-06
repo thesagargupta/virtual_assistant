@@ -15,7 +15,7 @@
   <li><h3>To open Youtube, Instagram: say"open {site name}"<h3>
   
 </ul>
-    <br>
-  <h2>here a fun fact:</h2><br>
-   <h4> <p>you can ask her about me: just by saying "who is sagar gupta"</p>
+    
+  <h1>here a fun fact:</h1>
+   <h1> <p>you can ask her about me 😅😅: just by saying "who is sagar gupta"</p>
 </pre>
