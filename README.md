@@ -9,7 +9,13 @@
 <h2>Run the program and activate the assistant just by saying</h2><h1>"hello Annu"</h1>
 
 <ul>
-  <li>To play Song on spotify: say"play song{song_name}"
-</ul>
+  <li><h3>To play Song on spotify: say"play song{song_name}"<h3>
+  <li><h3>To listen News: say "what is the headlines today"<h3>
+  <li><h3>To Now Weather forcast: say "what is the weather {your_city_name}"<h3>
+  <li><h3>To open Youtube, Instagram: say"open {site name}"<h3>
   
+</ul>
+    <br>
+  <h2>here a fun fact:</h2><br>
+   <h4> <p>you can ask her about me: just by saying "who is sagar gupta"</p>
 </pre>
