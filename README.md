@@ -11,7 +11,7 @@
 <ul>
   <li><h2>To play Song on spotify: say"play song{song_name}"</h2></li>
   <li><h2>To listen News: say "what is the headlines today"</h2></li>
-  <li><h2>To Now Weather forcast: say "what is the weather {your_city_name}"</h2></li>
+  <li><h2>To Now Weather forcast: say "what is the weather in {your_city_name}"</h2></li>
   <li><h2>To open Youtube, Instagram: say"open {site name}"</h2></li>
   
 </ul>
