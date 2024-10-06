@@ -17,5 +17,5 @@
 </ul>
     
   <h1>here a fun fact:</h1>
-   <h1> <p>you can ask her about me 😅😅: just by saying "who is sagar gupta"</p>
+   <h3> <p>you can ask her about me 😅😅: just by saying</h3><h1> "who is sagar gupta"</h1></p>
 </pre>
