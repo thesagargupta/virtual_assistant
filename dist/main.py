@@ -9,8 +9,8 @@ from spotipy.oauth2 import SpotifyOAuth
 
 
 # Spotify configuration
-SPOTIPY_CLIENT_ID = '9a7fbadb8fc34f3ea487b3887f944f44'
-SPOTIPY_CLIENT_SECRET = 'af9db1b03d024315a10141c95c23d4e4'
+SPOTIPY_CLIENT_ID = 'CONFIDENTIAL'
+SPOTIPY_CLIENT_SECRET = 'CONFIDENTIAL'
 SPOTIPY_REDIRECT_URI = 'http://localhost:8888/callback'
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID,
@@ -45,7 +45,7 @@ def speak(text):
 
 def get_coordinates(city):
     """ Fetch latitude and longitude for a given city """
-    api_key = "2546b20f2e5b3f647a3ad38cbfcea4e4"  # Replace with your OpenWeatherMap API key
+    api_key = "CONFIDENTIAL"  # Replace with your OpenWeatherMap API key
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
     
     try:
@@ -68,7 +68,7 @@ def get_weather(city):
     coordinates = get_coordinates(city)
     if coordinates:
         lat, lon = coordinates
-        api_key = "2546b20f2e5b3f647a3ad38cbfcea4e4"  # Replace with your OpenWeatherMap API key
+        api_key = "CONFIDENTIAL"  # Replace with your OpenWeatherMap API key
         url = f"http://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={api_key}&units=metric"
         
         try:
@@ -88,7 +88,7 @@ def get_weather(city):
 
 def get_news():
     """ Fetch and speak the latest news headlines """
-    api_key = "aa93a1da17d942ff8a0df9dda1ef1638"  # Replace with your NewsAPI key
+    api_key = "CONFIDENTIAL"  # Replace with your NewsAPI key
     url = f"https://newsapi.org/v2/top-headlines?country=us&apiKey={api_key}"
 
     try:
